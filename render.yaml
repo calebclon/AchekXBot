@@ -7,9 +7,9 @@ services:
     dockerfilePath: ./Dockerfile
     envVars:
       - key: SESSION
-        value: "RGNK~LaA1kdMI"
+        value: "RGNK~xwydfLcC"
       - key: DATABASE_URL
-        value: "postgresql://achekbot_user:NE4hoU6L9kH5YSrfTA1sa9YyBoFETbu0@dpg-d6avpcemcj7s73enu9d0-a/achekbot"
+        value: "postgresql://whatsapp_rpjx_user:wsr0RswWPIcCm98miwfa8oGqKbOOc7CQ@dpg-d6enkjogjchc739tmrs0-a/whatsapp_rpjx"
       - key: SUDO
         value: "2348096567473" # Put your phone number here (no + sign)
       - key: STICKER_PACKNAME
