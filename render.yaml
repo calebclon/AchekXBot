@@ -7,7 +7,7 @@ services:
     dockerfilePath: ./Dockerfile
     envVars:
       - key: SESSION
-        value: "RGNK~xwydfLcC"
+        value: "RGNK~ROYjTxsq"
       - key: DATABASE_URL
         value: "postgresql://whatsapp_rpjx_user:wsr0RswWPIcCm98miwfa8oGqKbOOc7CQ@dpg-d6enkjogjchc739tmrs0-a/whatsapp_rpjx"
       - key: SUDO
